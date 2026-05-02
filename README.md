@@ -3,6 +3,7 @@
 Application Android de démonstration de l'intégration de code natif C++ via JNI (Java Native Interface) et le NDK Android.
 
 ---
+<img width="2559" height="1256" alt="image" src="https://github.com/user-attachments/assets/4c1bdadf-285e-466c-8ce0-1b5e16847a32" />
 
 ## Aperçu
 
@@ -221,6 +222,9 @@ factorial(20)          // → -2       (overflow int)
 reverseString("")      // → ""       (chaîne vide)
 sumArray(new int[]{})  // → 0        (tableau vide)
 ```
+<img width="2559" height="1501" alt="image" src="https://github.com/user-attachments/assets/dd97e72b-c32c-4617-8ae1-8b7bdbcd5625" />
+<img width="2559" height="1448" alt="image" src="https://github.com/user-attachments/assets/6d69322d-dd56-45bc-90c2-39e431de469d" />
+<img width="2559" height="1514" alt="image" src="https://github.com/user-attachments/assets/01143e18-76dd-4cb2-a4b3-56c86f358d81" />
 
 ---
 
